@@ -1,4 +1,4 @@
-package Swing;
+package Ethnic;
 //All necessary imports
 import javax.swing.*;
 import java.awt.event.ActionEvent;
