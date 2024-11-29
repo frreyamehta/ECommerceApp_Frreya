@@ -1,3 +1,4 @@
+package Ethnic;
 import javax.swing.*;
 import java.awt.*;
 
