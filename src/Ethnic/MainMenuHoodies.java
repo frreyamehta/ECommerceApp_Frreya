@@ -1,4 +1,4 @@
-package Swing;
+package Ethnic;
 import javax.swing.*;
 import java.awt.*;
 import java.sql.*;
